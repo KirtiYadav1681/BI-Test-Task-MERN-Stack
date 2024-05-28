@@ -1,4 +1,4 @@
-# BL Test Task – MERN Stack
+# Brain Inventory Test Task – MERN Stack
 
 ## Project Overview
 
